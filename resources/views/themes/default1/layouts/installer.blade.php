@@ -110,7 +110,7 @@ a:active  {color:#000;}
 <body style="background-color:#d2d6de;">
 <div class="login-box">
     @yield('content')
-    <p id="footer">&copy;<?php echo date('Y')?>. Powered by <a href="http://www.faveohelpdesk.com">Faveo </a></p>
+    <p id="footer">&copy;<?php echo date('Y')?>. Powered by <a href="http://www.amrfayad.com">Faveo </a></p>
 </div>
 </body>
 </html>

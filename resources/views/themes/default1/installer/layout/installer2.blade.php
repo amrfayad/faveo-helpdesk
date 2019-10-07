@@ -18,7 +18,7 @@
         <link rel="stylesheet" href="{{asset("lb-faveo/css/chosen.css")}}">
     </head>
     <body class="wc-setup wp-core-ui">
-        <center><h1 id="wc-logo"><a href="http://www.faveohelpdesk.com">
+        <center><h1 id="wc-logo"><a href="http://www.amrfayad.com">
             <img src="{{asset("lb-faveo/media/installer/faveo.png")}}" alt="faveo" width="
             250px"></a></h1></center>
    
@@ -27,7 +27,7 @@
     </div>
     
     
-    <p style="text-align: center;"> Copyright &copy; 2015 - <?php echo date('Y')?> · Ladybird Web Solution Pvt Ltd. All Rights Reserved. Powered by <a target="_blank" href="http://www.faveohelpdesk.com">Faveo </a></p>
+    <p style="text-align: center;"> Copyright &copy; 2015 - <?php echo date('Y')?> · Ladybird Web Solution Pvt Ltd. All Rights Reserved. Powered by <a target="_blank" href="http://www.amrfayad.com">Amr Fayad </a></p>
     
 
 

@@ -432,7 +432,7 @@ foreach ($depts as $dept) {
                            <tbody>
                               <tr>
                            		<td valign="middle" style="font-family: Helvetica, arial, sans-serif; font-size: 14px;color: #666666; text-align:center;" st-content="postfooter">
-                                    Powered by <a href="#" style="text-decoration: none; color: #0a8cce">Faveo</a>
+                                    Powered by <a href="#" style="text-decoration: none; color: #0a8cce">Amr Fayad</a>
                                  </td>
                               </tr>
                               <!-- Spacing -->
@@ -570,7 +570,7 @@ foreach ($depts as $dept) {
                 
                 <!-- Main Text -->
                 <p style="padding: 0px 30px 20px 50px; margin: 0; font-size: 16px; color: #333; font-weight: normal; font-family: Arial, Helvetica, sans-serif; line-height: 22px; text-align: center; color: #3AB4FF;">
-                    <strong>Powered by <a href="http://www.faveohelpdesk.com" target="_blank">Faveo</a></strong>
+                    <strong>Powered by <a href="http://www.amrfayad.com" target="_blank">Amr Fayad</a></strong>
                 </p>
              
             </td>

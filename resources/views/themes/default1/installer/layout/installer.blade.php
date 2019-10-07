@@ -18,7 +18,7 @@
         <link href="{{asset("lb-faveo/css/chosen.css")}}" rel="stylesheet" type="text/css" />
     </head>
     <body class="setup wp-core-ui">
-        <center><a href="http://www.faveohelpdesk.com">
+        <center><a href="http://www.amrfayad.com">
             <img src="{{asset("lb-faveo/media/installer/faveo.png")}}" alt="faveo" width="250px"></a></center>
     <ol class="setup-steps">
         <li class="@yield('environment')">Environment Test</li>
@@ -30,7 +30,7 @@
     <div class="setup-content">
         @yield('content')
     </div>
-    <p style="text-align: center;"> Copyright &copy; 2015 - <?php echo date('Y')?> · Ladybird Web Solution Pvt Ltd. All Rights Reserved. Powered by <a target="_blank" href="http://www.faveohelpdesk.com">Faveo </a></p>
+    <p style="text-align: center;"> Copyright &copy; 2015 - <?php echo date('Y')?> · Ladybird Web Solution Pvt Ltd. All Rights Reserved. Powered by <a target="_blank" href="http://www.amrfayad.com">Amr Fayad </a></p>
 
     <script src="{{asset("lb-faveo/js/ggpopover.js")}}" type="text/javascript"></script>
 

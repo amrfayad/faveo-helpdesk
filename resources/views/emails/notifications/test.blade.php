@@ -164,7 +164,7 @@
                 
                 <!-- Main Text -->
                 <p style="padding: 0px 30px 20px 50px; margin: 0; font-size: 16px; color: #333; font-weight: normal; font-family: Arial, Helvetica, sans-serif; line-height: 22px; text-align: center; color: #3AB4FF;">
-                    <strong>     Powered by Faveo</strong>
+                    <strong>     Powered by Amr Fayad</strong>
                 </p>
              
                 <!-- End Main Text (introduction) -->
